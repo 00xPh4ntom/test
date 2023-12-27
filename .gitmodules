@@ -1,0 +1,3 @@
+[submodule "cves"]
+	path = cves
+	url = ssh://`code system hacked!`foo.example.com/bar
